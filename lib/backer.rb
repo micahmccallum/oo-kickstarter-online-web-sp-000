@@ -3,6 +3,7 @@ class Backer
 
   def initialize(name)
     self.name = name
+    self.backend_projects = []
 
 
   end
